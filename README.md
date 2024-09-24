@@ -1,29 +1,30 @@
-## Mario o‘yinini Phasez.js yordamida yaratganingiz juda qiziq!
+## Creating a Mario game using Phaser.js is really interesting!
 
-**Phasez.js** – 2D o‘yinlar yaratish uchun qulay JavaScript kutubxonasi bo‘lib, u soddaligi va kuchli vositalari bilan ajralib turadi. Ushbu kutubxona animatsiyalarni boshqarish, fizika, kolliziyalarni aniqlash va o‘yin obyektlarini boshqarishda yordam beradi.
+**Phaser.js** is a convenient JavaScript library for creating 2D games, known for its simplicity and powerful tools. This library helps in controlling animations, physics, collision detection, and managing game objects.
 
 <img src="./assets/MarioGame.jpg" alt="MarioGame">
 
-### Mario o‘yini haqida qisqacha ma'lumot:
+### A brief overview of the Mario game:
 
-- **O‘yin mexanikasi**:  
-  Mario o‘yini platforma janriga kiradi, bunda asosiy maqsad Mario bilan to‘siqlarni yengib, belgilangan maqsadga yetib borishdir. Sizning versiyangizda, Phasez.js yordamida harakatlar, sakrashlar va kolliziyalarni to‘g‘ri sozlash o‘yin tajribasini qiziqarli qiladi.
+- **Game mechanics**:  
+  The Mario game belongs to the platform genre, where the main goal is to help Mario overcome obstacles and reach the specified target. In your version, using Phaser.js to configure movements, jumps, and collisions correctly makes the game play more engaging.
 
-- **Fizika**:  
-  Phasez.js o‘z ichiga jismoniy qonunlarni olish imkonini beradi, bu esa o‘yinda sakrashlar, tezlik o‘zgarishlari va obyektlarning o‘zaro ta'sirini realistik qilishingizga yordam beradi.
+- **Physics**:  
+  Phaser.js includes physical laws, which help you make jumps, speed changes, and object interactions more realistic in the game.
 
-- **Grafika**:  
-  Mario o‘yini uchun klassik 2D grafikalardan foydalanishingiz mumkin. Phasez.js sprite atlaslari va animatsiyalarni qo‘llab-quvvatlagani sababli, harakatlanayotgan Mario, raqiblar va to‘siqlarni jonlantirish juda sodda va samarali amalga oshiriladi.
+- **Graphics**:  
+  For the Mario game, you can use classic 2D graphics. Since Phaser.js supports sprite atlases and animations, animating Mario, enemies, and obstacles becomes very simple and efficient.
 
-- **Interaktivlik**:  
-  O‘yin davomida Mario ko‘plab dushmanlar bilan to‘qnashadi, qimmatbaho tanga va kuchaytiruvchi predmetlarni yig‘adi, bu o‘yinga yanada ko‘proq zavq qo‘shadi.
+- **Interactivity**:  
+  Throughout the game, Mario encounters many enemies, collects valuable coins, and power-ups, adding more excitement to the game.
 
 ---
 
-### Foydalanuvchilarni qiziqtirish uchun tavsiya:
+### Recommendations to engage users:
 
-O‘yin o‘ynash jarayonida soddalik va qiziqarli elementlarga e'tibor qarating. Har bir darajaga yangi qiyinchilik va bonus elementlarini qo‘shish, o‘yinni yanada jozibador qiladi.
+Pay attention to simplicity and fun elements during game play. Adding new challenges and bonus items to each level will make the game more appealing.
 
-_O‘zingizning Mario o‘yiningiz haqida video yoki rasm orqali ko‘rsatsangiz, bu ham ko‘proq qiziqish uyg‘otadi!_
+_Showcasing your Mario game through a video or images can also generate more interest!_
+
 
 [**Play now**](https://mario-game-io.vercel.app/)
