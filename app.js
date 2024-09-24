@@ -6,7 +6,7 @@ let player_config = {
 let config = {
     type: Phaser.AUTO,
     scale: {
-        width: 1440,
+        width: innerWidth,
         height: innerHeight - 5,
     },
     backgroundColor: '#049cd8',
